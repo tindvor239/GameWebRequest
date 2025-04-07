@@ -14,7 +14,10 @@ Simple and intuitive API for HTTP requests
 
 ## 📦 Installation
 
-1. Open Unity Package Manager
+1. First, install the required dependencies:
+    - Install [UniTask](https://github.com/Cysharp/UniTask) via Package Manager
+    - Install [UniRx](https://github.com/neuecc/UniRx) via Package Manager
+2. Open Unity Package Manager
 2. Click the + button in the top-left corner
 3. Select "Add package from git URL"
 4. Enter: `[https://github.com/tindvor239/GameWebRequest.git]`
