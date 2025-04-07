@@ -1,0 +1,28 @@
+{
+    "name": "GameWebRequest",
+    "rootNamespace": "GameWebRequest",
+    "references": [
+        "UniRx",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "2.5.0",
+            "define": "WITH_UNITASK"
+        },
+        {
+            "name": "com.neuecc.unirx",
+            "expression": "7.0.0",
+            "define": "WITH_UNIRX"
+        }
+    ],
+    "noEngineReferences": false
+}
