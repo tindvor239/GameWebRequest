@@ -1,6 +1,6 @@
 {
   "name": "game_web_request",
-  "version": "0.0.1",
+  "version": "0.0.1-beta",
   "displayName": "Game Web Request",
   "description": "A Unity package for handling unity/https requests and responses with ease",
   "author": "Echo Of Steel",
